@@ -8,6 +8,11 @@
 }
 
 
+
+/* Navbar */
+
+
+
 .navbar{
     display: flex;
     justify-content: space-evenly;
@@ -85,6 +90,12 @@
 .book-table button:hover{
     transform: scale(1.03);
 }
+
+
+
+/* Container-1 */
+
+
 
 
 .container-1{
@@ -192,6 +203,9 @@
 
 
 
+/* Special Dishes */
+
+
 
 .special-dishes{
     background-image: url(/background/Screenshot\ \(335\).png);
@@ -273,6 +287,11 @@
 }
 
 
+
+/* Container-2 */
+
+
+
 .container-2{
     background-image: url(/background/Screenshot\ \(336\).png);
     background-size: cover;
@@ -308,6 +327,10 @@
     margin-top: 40px;
     transition: all ease-in-out 1s;
 }
+
+
+
+/* Chef Section */
 
 
 
@@ -364,6 +387,9 @@
     margin-left: 40px;
     transition: all ease-in-out 1s;
 }
+
+
+/* Customer-card-section */
 
 
 
@@ -474,6 +500,10 @@
 
 
 
+/* Footer */
+
+
+
 .footer{
     width: 100%;
     height: 1000px;
@@ -520,6 +550,10 @@
     background-color: rgb(20, 86, 80);
     transition: all ease-in-out 1s;
 }
+
+
+
+/* Main Footer */
 
 
 
@@ -581,6 +615,13 @@
     margin-top: 30px;
     margin-bottom: 10px;
 }
+
+
+
+/* Copyright Section */
+
+
+
 
 .copyright-top-hr{
     width: 80%;
